@@ -1,11 +1,11 @@
-# Golang ile Learn With Tests
+# Learn Golang with Tests
 
-Bu depo, Golang programlama dilini öğrenmek için "Learn With Tests" adlı kaynağı kullanarak geliştirilen bir çalışmadır. Aynı zamanda Git ve GitHub komutlarını öğrenmek için de kullanılmıştır.
+This repository is a study project developed using the "Learn With Tests" resource to learn the Golang programming language. It has also been used to learn Git and GitHub commands simultaneously.
 
-## İçerik
+## Contents
 
-Bu depo aşağıdaki bileşenleri içermektedir:
+This repository includes the following components:
 
-- Golang programlama dilindeki temel konuları kapsayan örnek kodlar ve testler
-- "Learn With Tests" kaynağından alınan öğrenme materyalleri
-- Git ve GitHub komutlarının kullanımı
+- Sample code and tests covering fundamental topics in the Golang programming language.
+- Learning materials adapted from the "Learn With Tests" resource.
+- Git and GitHub commands usage.
